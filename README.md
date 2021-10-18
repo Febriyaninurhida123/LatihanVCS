@@ -20,3 +20,4 @@ klik next terus seperti contoh di bawah
 ![Screenshot (21)](https://user-images.githubusercontent.com/90132092/137740985-b998fdaf-cf28-460f-bfd2-4f63f0934e41.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/90132092/137741020-be6a7de0-1064-4280-a86a-3be1ed35c33a.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/90132092/137741062-69b7d583-f52f-46dd-aebb-991e68c7bf81.png)
+lalu klik button install seperti gambar di bawah
