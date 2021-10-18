@@ -16,3 +16,4 @@ lalu klik button install seperti gambar di bawah
 tunggu hingga proses installasi selesai
 ![Screenshot (25)](https://user-images.githubusercontent.com/90132092/137742225-71e2c62a-1353-44d3-b84e-39c255387b78.png)
 selamat! installasi berhasil
+![Screenshot (26)](https://user-images.githubusercontent.com/90132092/137742835-dd5dddd6-b1ec-4e78-addc-de5f55933d8b.png)
