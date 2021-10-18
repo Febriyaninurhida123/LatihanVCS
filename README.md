@@ -18,3 +18,4 @@ tunggu hingga proses installasi selesai
 selamat! installasi berhasil
 ![Screenshot (26)](https://user-images.githubusercontent.com/90132092/137742835-dd5dddd6-b1ec-4e78-addc-de5f55933d8b.png)
 # setelah proses installasi selesai, lalu buat akun GIT. Jika Anda belum memiliki akun, anda bisa melakukan sign up, jika sebelumnya telah memiliki akun github maka anda tinggal log in saja 
+![Screenshot (29)](https://user-images.githubusercontent.com/90132092/137742879-541b8be5-8ada-4775-860b-9ad32d38c978.png)
