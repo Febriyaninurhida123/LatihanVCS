@@ -46,3 +46,4 @@ git commit -m "menambahkan Project"
 ![Screenshot (38)](https://user-images.githubusercontent.com/90132092/137754163-632c4388-fe1d-4a28-82ea-4326965b939c.png)
 # untuk membuat working directory yang diambil dari repositry sever gunakan perintah git clone [url]
 ![Screenshot (39)](https://user-images.githubusercontent.com/90132092/137754186-2071a0b7-d323-4cd8-bb00-7b1375e162c2.png)
+# sekian, terimakasih :)
