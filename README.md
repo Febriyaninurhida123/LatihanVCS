@@ -37,6 +37,9 @@ git init
 # Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
 echo "#User" >> README.md
 ![Screenshot (36)](https://user-images.githubusercontent.com/90132092/137754105-7e659ec7-084c-443a-8479-8b7bb9cb70f3.png)
+# Untuk menambahkan file yang sudah kita buat, gunakan perintah git add (Nama File) atau bisa menggunakan git add . (Jika file nya ada banyak)
+git add README.md
+git add .
 ![Screenshot (37)](https://user-images.githubusercontent.com/90132092/137754129-b9bfc05f-0cf2-41d6-846c-599cc98d84f5.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/90132092/137754163-632c4388-fe1d-4a28-82ea-4326965b939c.png)
 ![Screenshot (39)](https://user-images.githubusercontent.com/90132092/137754186-2071a0b7-d323-4cd8-bb00-7b1375e162c2.png)
