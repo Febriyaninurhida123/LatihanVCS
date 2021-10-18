@@ -25,3 +25,9 @@ selamat! installasi berhasil
 # isikan repository name sesuai kebutuhan anda, lalu pilih repository untuk jadi file public atau private, setelah itu centang pilihan add a readme file, lalu klik create repository
 ![Screenshot (33)](https://user-images.githubusercontent.com/90132092/137743000-400a0a83-3216-4f20-8219-2e4861c6b827.png)
 # cara penggunaan git
+Apa itu Git?
+Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. Developer software biasa menggunakan Git untuk distributed revision (VCS terdistribusi), hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. Namun semua orang yang terlibat dalam penyusunan kode dapat menyimpan database ini.
+# Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut
+git config --global user.name "username"
+
+git config --global user.email "email"
