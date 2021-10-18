@@ -22,4 +22,5 @@ selamat! installasi berhasil
 ![Screenshot (30)](https://user-images.githubusercontent.com/90132092/137743699-6d62f845-5353-45a5-b807-c1abb6c31812.png)
 # setelah selesai login/sign up di GITHUB, anda bisa langsung membuat file repository baru, seperti gambar dibawah ini
 ![Screenshot (32)](https://user-images.githubusercontent.com/90132092/137742961-fd7e5278-d3b8-4b93-a308-fb000004f74b.png)
+# isikan repository name sesuai kebutuhan anda, lalu pilih repository untuk jadi file public atau private, setelah itu centang pilihan add a readme file, lalu klik create repository
 ![Screenshot (33)](https://user-images.githubusercontent.com/90132092/137743000-400a0a83-3216-4f20-8219-2e4861c6b827.png)
