@@ -41,5 +41,7 @@ echo "#User" >> README.md
 git add README.md
 git add .
 ![Screenshot (37)](https://user-images.githubusercontent.com/90132092/137754129-b9bfc05f-0cf2-41d6-846c-599cc98d84f5.png)
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "nama project" Dan yang ada di dalam tanda kutip " " itu adalah nama kommentar setiap kita mencommit project
+git commit -m "menambahkan Project"
 ![Screenshot (38)](https://user-images.githubusercontent.com/90132092/137754163-632c4388-fe1d-4a28-82ea-4326965b939c.png)
 ![Screenshot (39)](https://user-images.githubusercontent.com/90132092/137754186-2071a0b7-d323-4cd8-bb00-7b1375e162c2.png)
