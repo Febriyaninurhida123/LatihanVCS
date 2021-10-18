@@ -34,7 +34,7 @@ git config --global user.email "email"
 # jalankan perintah git init. untuk membuat repository local
 git init
 ![Screenshot (35)](https://user-images.githubusercontent.com/90132092/137754034-95456c46-f947-488d-b99a-57a75e7d3c44.png)
-Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
+# Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
 echo "#User" >> README.md
 ![Screenshot (36)](https://user-images.githubusercontent.com/90132092/137754105-7e659ec7-084c-443a-8479-8b7bb9cb70f3.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/90132092/137754129-b9bfc05f-0cf2-41d6-846c-599cc98d84f5.png)
