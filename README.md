@@ -29,5 +29,10 @@ Apa itu Git?
 Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. Developer software biasa menggunakan Git untuk distributed revision (VCS terdistribusi), hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. Namun semua orang yang terlibat dalam penyusunan kode dapat menyimpan database ini.
 # Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut
 git config --global user.name "username"
-
 git config --global user.email "email"
+![Screenshot (34)](https://user-images.githubusercontent.com/90132092/137753993-ebd6e6bf-8b25-4e8c-a239-8ea1313fe532.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/90132092/137754034-95456c46-f947-488d-b99a-57a75e7d3c44.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/90132092/137754105-7e659ec7-084c-443a-8479-8b7bb9cb70f3.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/90132092/137754129-b9bfc05f-0cf2-41d6-846c-599cc98d84f5.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/90132092/137754163-632c4388-fe1d-4a28-82ea-4326965b939c.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/90132092/137754186-2071a0b7-d323-4cd8-bb00-7b1375e162c2.png)
