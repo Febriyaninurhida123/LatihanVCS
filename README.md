@@ -2,7 +2,7 @@
 ## Langkah-langkah installasi GIT
 ### 1. download GIT 
 untuk mengunduh Git, anda bisa mengunduh file-nya terlebih dahulu di laman resminya. karena saya pakai git-scm, linknya adalah https://git-scm.com/
-[gambar1](screenshot/screenshot 8.png)
+![gambar1](screenshot/screenshot 8.png)
 ### 2. Installasi GIT
 setelah selesai mengunduh file Git, install GIT
 ![img](screenshot(9).png)
