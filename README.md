@@ -32,12 +32,12 @@ git config --global user.email "email"
 ![gambar13](screenshot/ss13.png)
 ## Ketik pwd
 pwd
-![gambar14] (screenshot/ss14.png)
+![gambar14](screenshot/ss14.png)
 ## untuk membuat sebuah folder menjadi repository GIT kita harus masuk dulu ke dalam foldernya, nah kita buat dulu foldernya di file explorer seperti gambar di bawah
-![gambar15](screenshot/15.png)
+![gambar15](screenshot/ss15.png)
 ## jika kita ingin mengetahui di dalam sebuah directory ada apa saja bisa ketik ls
 ls
-![gambar16](screenshot/16.png)
+![gambar16](screenshot/ss16.png)
 ## ketik cd (nama folder) untuk masuk
 cd desktop
 ![gambar17](screenshot/ss17.png)
