@@ -5,15 +5,15 @@ untuk mengunduh Git, anda bisa mengunduh file-nya terlebih dahulu di laman resmi
 ![gambar1](screenshot/ss1.png)
 ### 2. Installasi GIT
 setelah selesai mengunduh file Git, install GIT
-![img](screenshot(9).png)
+![gambar2](screenshot/ss2.png)
 klik next terus seperti contoh di bawah
-![img](screenshot(10).png)
-![img](screenshot(22).png)
-![img](screenshot(23).png)
+![gambar3](screenshot/ss3.png)
+![gambar4](screenshot/ss4.png)
+![gambar5](screenshot/ss5.png)
 lalu klik button install seperti gambar di bawah
-![img](screenshot(24).png)
+![gambar6](screenshot/ss6.png)
 tunggu hingga proses installasi selesai
-![img](screenshot(25).png)
+![gambar7](screenshot/ss7.png)
 selamat! installasi berhasi
 ![img](screenshot(26.png)
 ## setelah proses installasi selesai, lalu buat akun GITHUB. Jika Anda belum memiliki akun, anda bisa melakukan sign up, jika sebelumnya telah memiliki akun github maka anda tinggal log in saja 
