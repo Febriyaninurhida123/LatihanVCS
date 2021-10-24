@@ -57,7 +57,9 @@ git add . # LatihanVCS.md
 ## Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "nama project" Dan yang ada di dalam tanda kutip " " itu adalah nama kommentar setiap kita mencommit project
 git commit -m "menambahkan Project"
 ![gambar23](screenshot/ss23.png)
-## ketik git status untuk mengecek apakah commit berhasil
+## ketik git push -u origin main untuk mengirim perubahan pada repository local ke server
+![gambar26](sreenshot/ss26.png)
+## ketik git status untuk mengecek apakah perubahan berhasil
 ![gambar24](screenshot/ss24.png)
 ## jika ingin mengetahui apa saja yang sudah kita lakukan ketik git log
 git log
