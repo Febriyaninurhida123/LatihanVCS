@@ -58,7 +58,7 @@ git add . # LatihanVCS.md
 git commit -m "menambahkan Project"
 ![gambar23](screenshot/ss23.png)
 ## ketik git push -u origin main untuk mengirim perubahan pada repository local ke server
-![gambar26](sreenshot/ss26.png)
+![gambar26](screenshot/ss26.png)
 ## ketik git status untuk mengecek apakah perubahan berhasil
 ![gambar24](screenshot/ss24.png)
 ## jika ingin mengetahui apa saja yang sudah kita lakukan ketik git log
